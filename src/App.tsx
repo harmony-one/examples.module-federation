@@ -9,7 +9,7 @@ function App() {
         111
       </header>
       <DynamicApp
-        url="https://63ee1fc8dc80a524ca0323cc--live-streaming-1country.netlify.app/exports.js"
+        url="https://live.0.country/exports.js"
         scope="live"
         module="./App"
       />
